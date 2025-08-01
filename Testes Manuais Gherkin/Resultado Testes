@@ -1,6 +1,7 @@
 Nível de impacto: Muito Alto - Alto - Médio - Baixo
 Nível de prioridade: Urgente - Alto - Médio - Baixo
 
+###################################
 
 ### Cadastro usuário ###
 
@@ -15,6 +16,7 @@ Nível de impacto: Alto
 
 Nível de prioridade: Alto
 
+###################################
 
 ### Buscar profissional ###
 
@@ -29,6 +31,22 @@ Nível de impacto: Muito Alto
 
 Nível de prioridade: Urgente
 
+###################################
+
+### Contatar profissional ###
+
+| Cenário |  Resultado   |
+| Sucesso | ✅❌ Passou |
+
+Observação:
+- Não é possível fazer login na plataforma, não é possível realiar caso de teste.
+- Lógica de negócio ✅
+
+Nível de impacto: Muito Alto
+
+Nível de prioridade: Urgente
+
+###################################
 
 ### Esqueci minha senha  ###
 
@@ -43,3 +61,35 @@ Observações:
 Nível de impacto: Muito Alto
 
 Nível de prioridade: Urgente
+
+###################################
+
+### Edição de perfil  ###
+
+| Cenário |  Resultado   |
+| Sucesso | ✅❌ Passou |
+
+Observações:
+- Não é possível fazer login na plataforma
+- Lógica de negócio ✅
+
+Nível de impacto: Muito Alto
+
+Nível de prioridade: Urgente
+
+###################################
+
+### Edição de perfil inserir novas informações  ###
+
+| Cenário |  Resultado   |
+| Sucesso | ✅❌ Passou |
+
+Observações:
+- Não é possível fazer login na plataforma
+- Lógica de negócio ✅
+
+Nível de impacto: Muito Alto
+
+Nível de prioridade: Urgente
+
+###################################
