@@ -24,7 +24,7 @@ Nível de prioridade: Alto
 | Sucesso | ✅❌ Passou |
 
 Observação:
-- Não é possível fazer login na plataforma, não é possível realiar caso de teste.
+- Não é possível fazer login na plataforma, não é possível realizar caso de teste.
 - Lógica de negócio ✅
 
 Nível de impacto: Muito Alto
@@ -39,7 +39,7 @@ Nível de prioridade: Urgente
 | Sucesso | ✅❌ Passou |
 
 Observação:
-- Não é possível fazer login na plataforma, não é possível realiar caso de teste.
+- Não é possível fazer login na plataforma, não é possível realizar caso de teste.
 - Lógica de negócio ✅
 
 Nível de impacto: Muito Alto
